@@ -1,0 +1,14 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Jupyter Lab
+.jupyter/
+.jupyterlab/
+.jupyter-server/
+jupyterlab-debugger-settings/
+
+# Local JupyterLab workspace settings
+.jupyter/lab/workspaces/
+
+.virtual_documents/
